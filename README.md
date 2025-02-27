@@ -8,6 +8,8 @@
 ![image](https://github.com/user-attachments/assets/c83fc4d9-6a8a-4a3e-8ec0-617420f18b63)
 
 ## 2021-2022:
+![image](https://github.com/user-attachments/assets/dc6716de-15ea-4dfe-b3e9-14ade0553449)
+
 ![image](https://github.com/user-attachments/assets/333752b6-2aae-438e-81b8-e691d4f74a5d)
 
 ![image](https://github.com/user-attachments/assets/e8b7fcbd-6fd4-46d6-86bb-ce9006ac0434)
