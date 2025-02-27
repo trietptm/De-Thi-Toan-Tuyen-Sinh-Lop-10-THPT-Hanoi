@@ -32,5 +32,9 @@
 ![image](https://github.com/user-attachments/assets/53ecf20d-278f-490e-88c7-14edf76184bd)
 
 
-
+## THAM KHẢO THÊM:
+* https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-THPT-Hanoi
+* https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-Ha-Noi
+* https://github.com/trietptm/De-Thi-Toan-Tuyen-Sinh-Lop-10-Trung-Hoc-Pho-Thong-Tot-Nghiep-Trung-Hoc-Co-So-TP.HCM
+* 
 
