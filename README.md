@@ -1,6 +1,9 @@
 # De-Thi-Toan-Tuyen-Sinh-Lop-10-THPT-Hanoi
 * Đề Thi Toán Tuyển Sinh Vào Lớp 10 Trung Học Phổ Thông (THPT) ở Hà Nội
 
+## 2024-2025:
+![image](https://github.com/user-attachments/assets/c96211f9-0b56-4b5a-b221-f344dee1e2b7)
+
 ## 2023-2024:
 ![image](https://github.com/user-attachments/assets/970f22b6-0f87-42f0-9faf-9b3f72c2d339)
 
